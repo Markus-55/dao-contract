@@ -2,7 +2,8 @@
 coverage
 coverage.json
 typechain
-node_modules
+node_modules/*
+!@openzeppelin
 
 #Hardhat files
 cache
